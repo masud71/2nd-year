@@ -1,0 +1,99 @@
+        Quiz Taker -- Users' Guide
+
+                  Question setting portion
+
+     1. From QT main menu choose Set Question option to go to
+this portion . 
+
+     2. Type questions simply as normal editor.
+
+     3. For graphics in question Use graphics menu.The program
+offers freehand drawing,symbols & different waveshapes.You may
+add text in graph aria when you are in free hand drawing option.
+You may also overlap different type of graphics in same graph
+aria & text in grapharia is restricted in text mode.
+
+     4. Choose Setup menu for the overall setup of the
+examination & for question information settings.You may use
+hotkeys F7 for status setting & F8 for question setting.
+     The Set status option sets exam time,saving time (for auto
+save mode) & autosave indicator. Edit values after removing
+previous values by pressing backspace end terminate by enter.
+Toggle autosave mode by pressing <Enter>.Choose Ok to accept the
+setting or Escape to ignore.
+     The set ansuer option sets Starting Line number of a
+question , marks,question type & answer (for MCQ & T/F only).
+Edit line number & mark of the question if requared. Default line
+number is Current line & default mark is 0. Choose question type
+& answers by pressing hilighted Letter. Goto different field by
+arrow keys. Choose Ok to accept,Cancel to erase & Escape to
+ignore. You May choose these three options any time by pressing
+their Capital letter.
+
+     5. Choose Save to save current file with all its settings.
+Give extention .QUE to save as a question file.Give a 4(fixed)
+character password.
+     To load a file choose LOAD. Give proper password. Password
+is strictly case sensitive.
+
+     6. To print a question paper Choose Print from Option
+submenu.
+
+     7. Quit to Main menu of QT by pressing Escape button or
+choosing Quit from main menu of Set question portion.
+
+     8. The Software contains :-
+          Execution files :-
+               QT.EXE
+               QT1.EXE
+               QT2.EXE
+               QT3.EXE
+               BUET.EXE
+
+          Source Codes :-
+               LINK_ED.C
+               LOADSAVE.C
+               SINEWAVE.C
+               FREEGRP.C
+               CSE200.C
+               G_MENU.C
+               PRINT.C
+               SYMBOLS.C
+               CHAIN.C
+               MAIN.C
+               200P2.C
+               200P3.C
+               SOFT.C
+               SOFT1.C
+               LOAD.C
+               LOAD1.C
+               MARKS.C
+               200SAVE.C
+               BUET.C
+
+          Symbol Library :-
+               QUIZ.LIB
+
+          Font Files :-
+               QUIZ.FNT
+               BGA.FNT
+               HGA.FNT
+               EGA.FNT
+               MGA.FNT
+
+          Project files :-
+               QT1.PRJ
+               QT2.PRJ
+               QT3.PRJ
+
+          Question files :-
+               EE210.QUE Password 1234
+               DEMO.QUE  Password 1234
+
+          Designed By :-
+               Mamunul Islam       Roll 13
+               Asad Roni           Roll 15
+               Mostafa Akbar       Roll 16
+               Masud Karim Khan    Roll 17
+               Farhad Hossain      Roll 18
+               Shibir Kumar Shaha  Roll 30
